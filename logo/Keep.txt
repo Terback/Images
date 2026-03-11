@@ -6,3 +6,4 @@ paradgim
 create some brainsotrm tool
 
 
+EIM-related ideas
