@@ -10,4 +10,4 @@ EIM-related ideas
   invoice Generator
   bootcamp Generator
   Project Technical Report Generator?
-  
+  学徒制怎么Tracking学生学习过程，因为目前只是
