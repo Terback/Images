@@ -7,3 +7,7 @@ create some brainsotrm tool
 
 
 EIM-related ideas
+  invoice Generator
+  bootcamp Generator
+  Project Technical Report Generator?
+  
