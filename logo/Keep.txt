@@ -8,7 +8,7 @@ create some brainsotrm tool
 
 EIM-related ideas
   invoice Generator(done)
-  bootcamp Generator
+  bootcamp Generator (done)
   Project Technical Report Generator?
   学徒制怎么Tracking学生学习过程，因为目前收费也比较低，一定要想到别的收益点，比如素材，名声
     internship-coop制度
