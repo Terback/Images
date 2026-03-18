@@ -5,7 +5,7 @@ paradgim
 
 create some brainsotrm tool
 
-hh
+h
 EIM-related ideas
   invoice Generator(done)
   bootcamp Generator (done)
